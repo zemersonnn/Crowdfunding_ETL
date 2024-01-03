@@ -2,7 +2,7 @@
 # Project 2
 
 
-#For the ETL mini project, we worked with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we created four CSV files and use the CSV file data to create an ERD and a table schema. We updloaded the .csv files to a Postgres database.
+## For the ETL mini project, we worked with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we created four CSV files and use the CSV file data to create an ERD and a table schema. We updloaded the .csv files to a Postgres database.
 
 ### Emerson worked on the Category, Subcategory and Campaign DataFrames. Jennifer worked on the Contacts DataFrame and pulled everything into the Postgres DB.
 

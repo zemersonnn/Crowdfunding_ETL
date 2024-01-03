@@ -8,4 +8,4 @@
 
 ### We used https://app.quickdatabasediagrams.com/#/ to create the ERD and schema.
 
-### Within the Resources folder, please find the oroginal .xlsx files, the four new .csv files and the crowdfunding_db_schema. A .png image of the schema is located within the main folder for your reference.
+### Within the Resources folder, please find the original .xlsx files, the four new .csv files and the crowdfunding_db_schema. A .png image of the schema is located within the main folder for your reference.
